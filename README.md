@@ -4,7 +4,7 @@ Hi 👋 My name is Lokesh Chowdary
 Full Stack Developer
 -------------------
 
-* 🌍  I'm based in Vijayawada
+* 🌍  I'm based in Lubbock,Texas.
 * ✉️  You can contact me at [lokeshchowdary005@gmail.com](mailto:lokeshchowdary005@gmail.com)
 * 🧠  I'm learning a New Technology
 * 🤝  I'm open to collaborating on interesting Projects
