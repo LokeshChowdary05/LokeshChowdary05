@@ -1,7 +1,7 @@
 Hi 👋 My name is Lokesh Chowdary
 ================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
 * 🌍  I'm based in Vijayawada
