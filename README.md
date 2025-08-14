@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx80E/giphy.gif" width="100"/>
-</div>
+
 
 <h1 align="center">Hi there, I'm Lokesh Chowdary Katta 👋</h1>
 <h3 align="center">A Data Scientist and Software Developer passionate about building intelligent, data-driven applications.</h3>
